@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMammad", "WPFMammad\WPFMammad.csproj", "{5C78794F-747E-479F-8738-D985BF946B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C78794F-747E-479F-8738-D985BF946B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C78794F-747E-479F-8738-D985BF946B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C78794F-747E-479F-8738-D985BF946B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C78794F-747E-479F-8738-D985BF946B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7AD108-F9AE-4449-B342-8EE78CCD5965}
+	EndGlobalSection
+EndGlobal
