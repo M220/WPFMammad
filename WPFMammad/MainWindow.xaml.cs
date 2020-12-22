@@ -48,5 +48,10 @@ namespace WPFMammad
                 animalEmoji.RemoveAt(index);
             }
         }
+
+        private void TextBlock_MouseDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+            
+        }
     }
 }
